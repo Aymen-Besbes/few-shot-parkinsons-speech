@@ -1,0 +1,31 @@
+# Data
+data/
+*.wav
+*.flac
+*.mp3
+*.csv
+
+# Generated outputs
+results/
+*.pkl
+*.json
+*.pdf
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
